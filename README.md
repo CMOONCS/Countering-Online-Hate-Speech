@@ -1,1 +1,1 @@
-# Countering-Online-Hate-Speech
+# Countering-Online-Hate-Speech: An NLP Perspective
